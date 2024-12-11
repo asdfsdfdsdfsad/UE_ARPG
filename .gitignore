@@ -149,9 +149,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 
 
-#模型资源
-Content/ParagonMinions/*
-Content/ParagonSevarog/*
-
-
-DerivedDataCache/* 作者：一生相随ii https://www.bilibili.com/read/cv21573689/ 出处：bilibili
+#资产资源
+#Content/ParagonMinions/*
+#Content/ParagonSevarog/*
+Content/**
